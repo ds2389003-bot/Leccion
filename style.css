@@ -38,3 +38,8 @@ body {
   width: 120px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
+.imagen-principal {
+  width: 300px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
